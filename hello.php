@@ -13,4 +13,6 @@
               <input type="submit" class="button" value="Submit Form"  ng-click="submit(); loadData();"/>
               </label>
             </div>
-          </form>
+          </form> 
+          
+          
